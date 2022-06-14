@@ -1,2 +1,2 @@
-# asp-classic-push-notifications
-send firebase push notification from asp classic 
+# ASP Classic Push Notifications
+send firebase push notifications from ASP ..NET classic.
